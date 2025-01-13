@@ -1,0 +1,118 @@
+[
+  {
+    "id": 1,
+    "type": "Payment",
+    "amount": 200,
+    "name": "IKEA",
+    "description": "Furniture",
+    "date": "2025-01-07",
+    "pending": true,
+    "authorizedUser": "John Doe"
+  },
+  {
+    "id": 2,
+    "type": "Credit",
+    "amount": -50,
+    "name": "Target",
+    "description": "Groceries",
+    "date": "2025-01-05",
+    "pending": false
+  },
+  {
+    "id": 3,
+    "type": "Payment",
+    "amount": 120,
+    "name": "Netflix",
+    "description": "Streaming Subscription",
+    "date": "2025-01-10",
+    "pending": false,
+    "authorizedUser": "Jane Doe"
+  },
+  {
+    "id": 4,
+    "type": "Payment",
+    "amount": 300,
+    "name": "Best Buy",
+    "description": "Electronics",
+    "date": "2025-01-08",
+    "pending": false,
+    "authorizedUser": "John Doe"
+  },
+  {
+    "id": 5,
+    "type": "Credit",
+    "amount": -150,
+    "name": "Amazon",
+    "description": "Refund for returned item",
+    "date": "2025-01-09",
+    "pending": false
+  },
+  {
+    "id": 6,
+    "type": "Payment",
+    "amount": 75,
+    "name": "Starbucks",
+    "description": "Coffee and Snacks",
+    "date": "2025-01-06",
+    "pending": true,
+    "authorizedUser": "Jane Doe"
+  },
+  {
+    "id": 7,
+    "type": "Payment",
+    "amount": 500,
+    "name": "Apple Store",
+    "description": "New iPhone purchase",
+    "date": "2025-01-04",
+    "pending": false,
+    "authorizedUser": "John Doe"
+  },
+  {
+    "id": 8,
+    "type": "Credit",
+    "amount": -20,
+    "name": "Spotify",
+    "description": "Subscription refund",
+    "date": "2025-01-03",
+    "pending": false
+  },
+  {
+    "id": 9,
+    "type": "Payment",
+    "amount": 40,
+    "name": "Uber",
+    "description": "Transportation fare",
+    "date": "2025-01-02",
+    "pending": false,
+    "authorizedUser": "Jane Doe"
+  },
+  {
+    "id": 10,
+    "type": "Payment",
+    "amount": 250,
+    "name": "Costco",
+    "description": "Bulk groceries",
+    "date": "2025-01-01",
+    "pending": false,
+    "authorizedUser": "John Doe"
+  },
+  {
+    "id": 11,
+    "type": "Credit",
+    "amount": -100,
+    "name": "Walmart",
+    "description": "Refund for defective item",
+    "date": "2025-01-11",
+    "pending": false
+  },
+  {
+    "id": 12,
+    "type": "Payment",
+    "amount": 95,
+    "name": "Movie Theater",
+    "description": "Tickets and snacks",
+    "date": "2025-01-12",
+    "pending": true,
+    "authorizedUser": "Jane Doe"
+  }
+]
