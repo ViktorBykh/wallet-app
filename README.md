@@ -2,6 +2,8 @@
 
 A responsive **mobile-first wallet application** built with **Next.js**, **React**, and **TailwindCSS**. This app provides users with an interactive interface to view and manage transactions while leveraging modern web development practices.
 
+## [UI LINK](https://ViktorBykh.github.io/wallet-app)
+
 ## Features
 
 ### Transactions List
